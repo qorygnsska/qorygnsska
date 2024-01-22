@@ -1,6 +1,28 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=첫번째+줄+의+텍스트;두번째+줄+의+텍스트)](https://git.io/typing-svg)
+<details>
+<summary>
+  Recipe
+</summary>
+  누구나 쉽게 레시피를 찾아보고, 등록할 수 있는 웹사이트!
+</details>
+<br>
+
+<details>
+<summary>
+  BlueSoccer
+</summary>
+   축구에 관한 용품들을 구매할 수 있는 웹사이트!
+</details>
+<br>
+
+<details>
+<summary>
+  Solution
+</summary>
+   C# 프로젝트를 공부한 공간!
+</details>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
