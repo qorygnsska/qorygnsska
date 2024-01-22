@@ -2,7 +2,7 @@
 
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Recipe Repository
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Fire" width="2%" /> Recipe Repository
 </summary>
   누구나 쉽게 레시피를 찾아보고, 등록할 수 있는 웹사이트!
 </details>
